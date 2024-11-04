@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10138dfb-e5c6-42f7-bc1e-d2a4ecba132b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Shaders/GlassStainedBumpDistort.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Shaders/GlassStainedBumpDistort.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/BlurEffectConeTaps.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/BlurEffectConeTaps.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlur.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlur.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ChromaticAberrationShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ChromaticAberrationShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrection3DLut.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrection3DLut.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionSelective.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionSelective.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Apply.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Apply.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/MinMaxReduction.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/MinMaxReduction.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ConvertDepth.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ConvertDepth.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/GlobalFog.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/GlobalFog.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/PrepareSunShaftsBlur.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/PrepareSunShaftsBlur.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/RadialBlur.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/RadialBlur.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ShowAlphaChannel.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/ShowAlphaChannel.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/SimpleClear.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/SimpleClear.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA2.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA2.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/SeparableBlurPlus.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/SeparableBlurPlus.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/VignetteShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/VignetteShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/TiltShiftHdrLensBlur.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/TiltShiftHdrLensBlur.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorLight.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorLight.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonBasic.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonBasic.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonBasicOutline.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonBasicOutline.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Shaders/PriorityParticleAdd.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Shaders/PriorityParticleAdd.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Shaders/PriorityParticleAddSoft.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Shaders/PriorityParticleAddSoft.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Shaders/PriorityParticleAlpha.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Shaders/PriorityParticleAlpha.shader" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Features/Input/CollisionComponent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Features/Input/ProcessShootInputSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2oNKqPAQuyMjetTqkzJUJvT4Bpm" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/billyq/Dev/Github/Entitas-Shmup&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10138dfb-e5c6-42f7-bc1e-d2a4ecba132b" name="Changes" comment="" />
+      <created>1730704783327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730704783327</updated>
+      <workItem from="1730704784351" duration="46000" />
+      <workItem from="1730711733344" duration="183000" />
+      <workItem from="1730712372409" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectDiscoverer">
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
